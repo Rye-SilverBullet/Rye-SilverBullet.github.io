@@ -1,1 +1,3 @@
 #Hello,World,I am Rye,from a cartoon named Detecive Conan.
+OK，actually,I am a student from Huashang College, my name is Zhangmin.
+I'm glad to take part in this hackathon.There are many enthusiastic friends and teachers,very happy to study with them; in addition, I can study the kownledge about programme, I am interested in it, but I ever thought it was far away from me. Thanks to this chance, I can close to it.
